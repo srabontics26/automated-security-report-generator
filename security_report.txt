@@ -1,0 +1,27 @@
+AUTOMATED SECURITY REPORT
+
+Generated: 2026-10-05
+
+SUMMARY
+Total login events: 10
+Successful logins: 3
+Failed logins: 7
+Risk level: HIGH
+
+EVENT TYPES
+LOGIN_SUCCESS: 3
+FAILED_LOGIN: 7
+
+SOURCE IP ACTIVITY
+203.0.113.25: 5 event(s)
+192.168.1.15: 2 event(s)
+192.168.1.10: 2 event(s)
+198.51.100.42: 1 event(s)
+
+RECOMMENDATION
+Review failed login activity and investigate
+repeated attempts from the same source IP.
+
+NOTE
+This report was generated from sample security
+events for educational purposes.
